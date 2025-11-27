@@ -92,7 +92,7 @@ Inverting amplifier:
 
 ---
 ## OUT PUT WAVEFORM AND DISCUSSION 
-
+<img width="410" height="693" alt="image" src="https://github.com/user-attachments/assets/09544b00-f3d1-4556-a4ce-9d3a5d7b54ee" />
 
 ---
 ### **Non-Inverting Amplifier**
@@ -139,6 +139,7 @@ PROCEDURE:
 ---
 ## OUT PUT WAVEFORM AND DISCUSSION 
 
+<img width="826" height="1280" alt="image" src="https://github.com/user-attachments/assets/c0b55efa-121b-4c2f-b340-8b13a22c5884" />
 
 ---
 ## DIFFERENTIAL AMPLIFIER
@@ -194,6 +195,7 @@ Choose  R1 = 1kOhm, Rf = 10kOhm
 
 ---
 ## OUT PUT WAVEFORM AND DISCUSSION 
+<img width="831" height="1280" alt="image" src="https://github.com/user-attachments/assets/b371d149-133a-4eb2-948a-81bba8d45e2c" />
 
 
 ---
@@ -233,6 +235,7 @@ PROCEDURE:
 
 ---
 ## OUT PUT WAVEFORM AND DISCUSSION 
+<img width="823" height="1280" alt="image" src="https://github.com/user-attachments/assets/1c8ea593-8af7-40dd-9849-63ffbf47f61d" />
 
 
 ---
