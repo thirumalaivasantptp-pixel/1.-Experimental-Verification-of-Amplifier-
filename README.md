@@ -52,6 +52,8 @@ PIN DIAGRAM
 
 CIRCUIT DIAGRAM: INVERTING AMPLIFIER:
 <img width="779" height="440" alt="image" src="https://github.com/user-attachments/assets/a14d8bc1-9dc7-4a49-98b0-f5320f450a63" />
+<img width="1280" height="1280" alt="image" src="https://github.com/user-attachments/assets/1cb2743b-92ff-4df5-ba5c-31cb9ab4a163" />
+
 
 MODEL GRAPH 
 
@@ -110,6 +112,8 @@ ACL = 1 + RF/R1
 
 
 <img width="704" height="397" alt="image" src="https://github.com/user-attachments/assets/1b4b170f-cf21-4fa9-9dc7-96db30b3c153" />
+<img width="1280" height="1280" alt="image" src="https://github.com/user-attachments/assets/3474287f-5cf8-4b3e-baef-ee906c4ad3cb" />
+
 
 ---
 
@@ -152,6 +156,9 @@ If the two input signals are identical, the output is ideally **zero**.
 A = Vo/{V2 - V1} = -Rf/R1
 ## CIRCUIT DIAGRAM
 <img width="706" height="522" alt="image" src="https://github.com/user-attachments/assets/917f2544-3735-4a23-a9b7-1264966d0d20" />
+<img width="1280" height="1280" alt="image" src="https://github.com/user-attachments/assets/2e4fcade-ae1a-4d67-9ad8-a3e6da4836a6" />
+
+
 
 ## MODEL GRAPH
 <img width="678" height="334" alt="image" src="https://github.com/user-attachments/assets/6aa1b9dd-b112-4be1-a37a-d5ee19607b1d" />
@@ -212,6 +219,8 @@ Vo = RF/R1[1+ 2R’/R][V2-V1]
 ## CIRCUIT DIAGRAM: INSTRUMENTATION AMPLIFIER
 
 <img width="1006" height="1087" alt="image" src="https://github.com/user-attachments/assets/636c08f9-7940-470e-a89e-4891d57a9ac7" />
+<img width="1280" height="1280" alt="image" src="https://github.com/user-attachments/assets/1689b346-1d7d-4cd7-8a7b-b77d8415ee16" />
+
 
 PROCEDURE:
 
