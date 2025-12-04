@@ -64,11 +64,8 @@ MODEL GRAPH
 DESIGN:
 
 Inverting amplifier:
+<img width="1280" height="1280" alt="image" src="https://github.com/user-attachments/assets/e26f896f-d3fa-428a-b3d4-261950f445fc" />
 
-A = -Rf/R1
-Take  A = 10
-Rf =10 R1
-Choose R1 = 1kΩ, Rf=10kΩ
 
 PROCEDURE:
 Inverting amplifier:
@@ -165,19 +162,8 @@ A = Vo/{V2 - V1} = -Rf/R1
 
 ---
 
-## DESIGN
 
 
-### **Differential Amplifier**
-
-AV = Vo/{V1 - V2} = -Rf/R1
-
-
-Take  A = 10 
-⇒  Rf = 10R1   
-Choose  R1 = 1kOhm, Rf = 10kOhm
-
----
 
 
 
@@ -250,5 +236,7 @@ PROCEDURE:
 ---
 ## RESULT
 Thus, the **Inverting**, **Non-Inverting**, **Differential**, and **Instrumentation Amplifiers** were designed and their performance successfully tested using Op-Amp IC 741.
+<img width="1280" height="617" alt="image" src="https://github.com/user-attachments/assets/0b542b01-f5c6-41ee-a275-1f53768a8fcd" />
+
 
 ---
